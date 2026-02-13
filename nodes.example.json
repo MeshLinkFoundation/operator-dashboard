@@ -1,0 +1,8 @@
+[
+  {
+    "id": "example-node-1",
+    "name": "Downtown Hub",
+    "url": "http://100.64.1.10:3000",
+    "adminPassword": "your-admin-password"
+  }
+]
